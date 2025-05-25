@@ -54,8 +54,8 @@ A full-featured social media insights platform with user authentication, post en
 
 🔹 **[AI Fashion Chatbot](https://github.com/StephenMacharia/NLTK))**  
 Custom chatbot for fashion advice using NLTK, OpenAI, and Flask API integration.
-
-🔹 **[sokogarden-api](https://github.com/StephenMacharia/soko-garden-ecommerce-api))**  
+)
+🔹 **[sokogarden-api]((https://github.com/StephenMacharia/sokogarden))**  
 RESTful API backend for managing products, categories, carts, and orders in an e-commerce app.
 
 🔹 **Portfolio Website**  
