@@ -32,7 +32,7 @@ I’m a passionate and motivated full-stack developer with hands-on experience i
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 
-**AI & Data**  
+**AI, Data science and Machine Learning**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn)
