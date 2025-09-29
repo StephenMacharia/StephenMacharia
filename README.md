@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Stephen Macharia</h1>
 
 <p align="center">
-  🚀 Full Stack Web Developer | 🤖 AI Enthusiast | 💡 Lifelong Learner <br>
+  🚀 Full Stack Web Developer | 🤖 AI Enthusiast | 💡 Lifelong Learner & Founder<br>
   📍 Based in Kenya | 📧 stephenmacharia024@gmail.com | 🌐 <a href="https://github.com/StephenMacharia">My GitHub</a>
 </p>
 
