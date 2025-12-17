@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Stephen Macharia</h1>
 
 <p align="center">
-  🚀 Full Stack Web Developer | 🤖 AI Enthusiast | 💡 Lifelong Learner & Founder<br>
+  🚀 Full Stack Web Developer | 🤖 AI Enthusiast | 💡 Research & Innovation Awardee | Founder<br>
   📍 Based in Kenya | 📧 stephenmacharia024@gmail.com | 🌐 <a href="https://github.com/StephenMacharia">My GitHub</a>
 </p>
 
@@ -13,7 +13,9 @@ I’m a passionate and motivated full-stack developer with hands-on experience i
 - Creating intelligent systems with **Machine Learning** and **Natural Language Processing**
 - Designing user-friendly interfaces and seamless user experiences
 
-💻 I hold a Certificate in Software Development from **Modcom Institute**, and I’m actively working on exciting freelance and personal projects that showcase my love for tech and innovation.
+🏆 **Research & Innovation Awardee** — recognized for impactful contributions in applied research, technology-driven problem solving, and innovative system design.
+
+💻 I hold a **Certificate in Software Development** from **Modcom Institute**, and I’m actively working on freelance, research-driven, and personal projects that showcase real-world impact through technology.
 
 ---
 
@@ -32,7 +34,7 @@ I’m a passionate and motivated full-stack developer with hands-on experience i
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 
-**AI, Data science and Machine Learning**  
+**AI, Data Science & Machine Learning**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn)
@@ -43,25 +45,25 @@ I’m a passionate and motivated full-stack developer with hands-on experience i
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
 ---
 
 ### 📌 Featured Projects
 
 🔹 **[SocialPulse360](https://github.com/StephenMacharia/SocialPulse360)**  
-A full-featured social media insights platform with user authentication, post engagement tracking, sentiment analysis, and an admin dashboard. Built with Flask & React.
+A full-featured social media intelligence platform with authentication, engagement tracking, sentiment analysis, and an admin dashboard.  
+**Tech:** Flask, React
 
-🔹 **[AI Fashion Chatbot](https://github.com/StephenMacharia/NLTK))**  
-Custom chatbot for fashion advice using NLTK, OpenAI, and Flask API integration.
-)
+🔹 **[AI Fashion Chatbot](https://github.com/StephenMacharia/NLTK)**  
+An AI-powered chatbot for fashion recommendations using NLP and OpenAI integration.  
+**Tech:** Flask, NLTK, OpenAI
 
-
-🔹 **[sokogarden-api]((https://github.com/StephenMacharia/sokogarden))**  
-RESTful API backend for managing products, categories, carts, and orders in an e-commerce app.
+🔹 **[sokogarden-api](https://github.com/StephenMacharia/sokogarden)**  
+RESTful API backend for managing products, categories, carts, and orders in an e-commerce application.
 
 🔹 **Portfolio Website**  
-Personal portfolio showcasing my projects and skills, built with React and Tailwind.
+Personal portfolio showcasing projects and skills.  
+**Tech:** React, Tailwind CSS
 
 ---
 
@@ -75,13 +77,13 @@ Personal portfolio showcasing my projects and skills, built with React and Tailw
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/stephen-macharia-5674b6340/)
-- 🌍 [Portfolio](https://portfolio-flax-three-98.vercel.app/)
-- 📬 Email: [stephenmacharia024@gmail.com](mailto:stephenmacharia024@gmail.com)
+- 💼 <a href="https://www.linkedin.com/in/stephen-macharia-5674b6340/">LinkedIn</a>
+- 🌍 <a href="https://portfolio-flax-three-98.vercel.app/">Portfolio</a>
+- 📬 <a href="mailto:stephenmacharia024@gmail.com">stephenmacharia024@gmail.com</a>
 
 ---
 
-⭐ _"Code is like humor. When you have to explain it, it’s bad."_  
+⭐ <em>"Code is like humor. When you have to explain it, it’s bad."</em><br>
 — Cory House
